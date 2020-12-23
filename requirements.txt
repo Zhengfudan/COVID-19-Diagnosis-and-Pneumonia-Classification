@@ -1,0 +1,8 @@
+tqdm
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+opencv-python
+prettytable
